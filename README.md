@@ -129,7 +129,7 @@ Follow the steps below to set up and run the **Interactive Multiagent** applicat
  1. Clone the repository:
 
 ```bash
-git clone https://github.com/mySanibot/interactive-multiagent.git
+git clone https://github.com/samugit83/interactive-multiagent.git
 ```
 
 2. Navigate to the project directory:
